@@ -9,5 +9,3 @@ Part 2: http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-i
 First, go into the cloned directory and install the dependencies: `npm install`.
 
 Run the app: `npm start`
-
-It should look similar to this:
